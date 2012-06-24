@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AwareActivity!</string>
+    <string name="app_name">Aware</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="state">Monitoring Status</string>
+    <string name="input">Trigger volume</string>
+    <string name="status">Stopped</string>
+    <string name="instruction_title">Instructions:</string>
+    <string name="instructions">
+        1. This only works with ear phones\n
+        2. Set the desired trigger level\n
+        3. Press start to start monitoring\n
+        4. Switch to your music player\n
+    </string>
+
+</resources>
